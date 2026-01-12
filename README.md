@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Sunny Vo
+🤔 I enjoy exploring business problems, processes, and data to uncover insights  
+🌱 An aspiring Business Analyst based in New Zealand  
+📊 I use tools like Power BI, SQL, and Excel to support better decision-making  
+🤝 This GitHub is my learning playground — ideas and feedback are always welcome
+---
 
-<!--
-**sunnyvo106/sunnyvo106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About Me
+Welcome to my learning playground 👋  
 
-Here are some ideas to get you started:
+I’m a curious Business Analyst who enjoys learning by doing.  
+I like exploring data, understanding how systems work, and experimenting with different ways to turn raw information into insights that make sense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is a space where I practise, learn, and grow.  
+You’ll find hands-on projects exploring real-world business questions using practical tools and real data.
+
+I’m always learning, and I see each project as an opportunity to improve my thinking, my analysis, and how I communicate insights.
