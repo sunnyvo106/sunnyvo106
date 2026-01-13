@@ -1,7 +1,7 @@
 ## 👋 Hi, my name is Sunny Vo
 🤔 I enjoy exploring business problems, processes, and data to uncover insights  
 🌱 An aspiring Business Analyst based in New Zealand  
-📊 I use tools like Power BI, SQL, and Excel to support better decision-making when data is involved
+📊 I use tools like Power BI, SQL, and Excel to support better decision-making
 🤝 This GitHub is my learning playground — ideas and feedback are always welcome
 
 ---
